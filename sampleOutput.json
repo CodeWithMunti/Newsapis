@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "First Time In 146 Years: Virat Kohli Achieves A New High In World Cricket - NDTV Sports",
+      "description": "Director Comey says the probe into last year's US election would assess if crimes were committed.",
+      "url": "https://www.bbc.com/news/world-us-canada-39324587",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/44EC/production/_95244671_mediaitem95244670.jpg",
+      "publishedAt": "2023-12-29T02:42:34Z",
+      "content": "Media caption, 'Putin hates Clinton' and other things the FBI learned about Russia\r\nFBI director James Comey has confirmed for the first time that the FBI is investigating alleged Russian interferenc… [+5942 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hindustan Times" },
+      "author": "HT Sports Desk",
+      "title": "Tendulkar pin-points major cause for India's heavy loss vs SA in 1st Test - Hindustan Times",
+      "description": "Team India went down without a fight during the second innings, facing an innings-and-32-run defeat to the Proteas in the first Test. | Cricket",
+      "url": "https://www.hindustantimes.com/cricket/sachin-tendulkar-pin-points-major-cause-for-indias-heavy-loss-vs-south-africa-in-1st-test-from-whatever-i-watched-101703815055597.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/12/29/1600x900/PTI12-28-2023-000323A-0_1703816213416_1703816244087.jpg",
+      "publishedAt": "2023-12-29T02:19:33Z",
+      "content": "Plagued by pace and unsettled by the unexpected bounce, an ill-prepared India faced a heavy defeat by an innings and 32 runs against a vastly superior South Africa in the opening Boxing Day Test in C… [+2066 chars]"
+    }
+  ]
+}
